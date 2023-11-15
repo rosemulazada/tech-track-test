@@ -1,0 +1,59 @@
+/* * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 16px;
+}
+
+@font-face {
+	font-family: 'Helvetia Now';
+	src: url('HelveticaNowDisplayXBlk.otf') format('opentype');
+}
+
+:root {
+	/* light mode */
+	/* --text-color: #292929;
+	--background-color: #fff;
+	--container-color: #e0e0e0;
+} */
+
+/* @media (prefers-color-scheme: dark) {
+} */
+
+/* body {
+	font-family: 'helvetica now', sans-serif;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	width: 100vw;
+	color: var(--text-color);
+	background: var(--container-color);
+} */
+
+/* main {
+	background: var(--background-color);
+	margin: 10rem 5rem;
+	padding: 15rem 10rem; */
+	/* display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center; */
+	/* border-radius: 0.5rem;
+	filter: drop-shadow(10px 5px 4px #cccccc);
+} */
+
+/* h1 {
+	font-size: 4.5rem;
+	margin-bottom: 3rem;
+} */ 
+
+/* hierboven: similarTracks.svelte */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 16px;
+}
